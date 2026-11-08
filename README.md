@@ -1,38 +1,53 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&duration=2000&pause=800&color=8A2BE2&center=true&vCenter=true&width=650&lines=Software+Developer;React+%7C+JavaScript/TypeScript+Enthusiast;Building+Fast+and+Scalable+Web+Apps;UI%2FUX+Perfectionist;Always+Learning+%F0%9F%9A%80" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&duration=2000&pause=800&color=8A2BE2&center=true&vCenter=true&width=650&lines=Software+Developer;Building+AI+Agents+%26+Agent+Skills;React+%7C+TypeScript+%7C+Python;Open+Source+Builder;Always+Learning+%F0%9F%9A%80" />
 </p>
-<h3 align="center">Self-Taught Developer • Creating Scalable & Modern Web Apps</h3>
-
-
+<h3 align="center">Self-Taught Developer • Building AI Agents, Agent Skills & Modern Web Apps</h3>
 
 ---
+
 ## ✨ About Me
 
-- 🚀 Focused on building **fast, scalable, and responsive web applications**  
-- 🎨 Passionate about **modern UI/UX**, clean layouts & smooth interactions  
-- 🧠 Continuous learner exploring emerging technologies  
+- 🤖 Building **open-source AI agents and Agent Skills** for Claude Code, Codex, Cursor, Copilot and Gemini CLI
+- 🚀 Shipping **fast, scalable, and responsive web apps** with React, Next.js and TypeScript
+- 📈 Exploring **AI for trading**: analysis, screening, risk checks, backtesting and paper trading
+- 🎨 Passionate about **modern UI/UX**, clean layouts and smooth interactions
 - 📩 Contact me: **reddygopalkrishna06@gmail.com**
 
+---
+
+## 🛠️ Featured Projects
+
+| Project | What it is | Stack |
+|---|---|---|
+| [**tradingkit-skills**](https://github.com/Reddygopalkrishna/tradingkit-skills) | Free trading skills for AI agents. Any market, any broker, zero API keys. Analysis, screener, risk gate, backtester, journal, paper and live orders. | Python |
+| [**developer-agent-skills**](https://github.com/Reddygopalkrishna/developer-agent-skills) | 61 Agent Skills for developers: frontend, backend, databases, DevOps, security and AI engineering. Plain Markdown, works across AI coding tools. | Python · Markdown |
+| [**QuoteFlow**](https://github.com/Reddygopalkrishna/QuoteFlow) | AI sales teammate for B2B distributors. | TypeScript |
+| [**contribution-review-agent**](https://github.com/Reddygopalkrishna/contribution-review-agent) | An AI agent that reviews open-source contributions. | Python |
+| [**open-source-agents**](https://github.com/Reddygopalkrishna/open-source-agents) | Community collection of practical, documented, open-source AI agents and developer tools. | Multi |
+| [**defect_spotter**](https://github.com/Reddygopalkrishna/defect_spotter) | AI-powered property damage and forensic evidence detection using the Gemini Live API. | TypeScript |
 
 ---
 
 ## 🎯 Skills & Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,react,redux,nodejs,express,graphql,html,css,tailwind,bootstrap,materialui,mongodb,mysql,git,github,vscode&perline=9" />
+  <img src="https://skillicons.dev/icons?i=python,fastapi,javascript,typescript,react,nextjs,redux,nodejs,express,graphql,html,css,tailwind,materialui,mongodb,mysql,git,github&perline=9" />
 </p>
 
-`Python`·`JavaScript`·`React.js`·`Next.js` · `TypeScript` · `Redux` · `Node.js` · `Express.js` ·`FastAPI`· `REST APIs`.`Tailwind CSS` · `Material UI` · `Bootstrap` · `HTML` · `CSS` · `SQL` · `MongoDB` · `React Query` . `GraphQL` · `Formik`
-
+**AI & Agents:** `Claude Code` · `Agent Skills` · `MCP` · `LLM APIs` · `Gemini API`
+**Frontend:** `React.js` · `Next.js` · `TypeScript` · `Redux` · `React Query` · `Tailwind CSS` · `Material UI` · `Formik`
+**Backend:** `Python` · `FastAPI` · `Node.js` · `Express.js` · `REST APIs` · `GraphQL`
+**Data:** `SQL` · `MySQL` · `MongoDB`
 
 ---
-## 📊 GitHub Analytics
 
+## 📊 GitHub Analytics
 
 <p align="center">
   <img width="70%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Reddygopalkrishna&theme=radical" />
 </p>
 
+---
 
 ## 🔗 Connect With Me
 
@@ -46,4 +61,3 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Reddygopalkrishna&label=Profile%20Views&color=8A2BE2&style=for-the-badge" />
 </p>
-
