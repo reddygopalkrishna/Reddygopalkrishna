@@ -8,8 +8,8 @@
 ## ✨ About Me
 
 - 🤖 Building **open-source AI agents and Agent Skills** for Claude Code, Codex, Cursor, Copilot and Gemini CLI
-- 🚀 Shipping **fast, scalable, and responsive web apps** with React, Next.js and TypeScript
-- 📈 Exploring **AI for trading**: analysis, screening, risk checks, backtesting and paper trading
+- 🚀 Shipping **fast, scalable, full-stack web applications** and freelance websites
+- 📈 Digging into **algo trading**: analysis, screening, risk checks, backtesting and paper trading
 - 🎨 Passionate about **modern UI/UX**, clean layouts and smooth interactions
 - 📩 Contact me: **reddygopalkrishna06@gmail.com**
 
@@ -17,14 +17,14 @@
 
 ## 🛠️ Featured Projects
 
-| Project | What it is | Stack |
-|---|---|---|
-| [**tradingkit-skills**](https://github.com/Reddygopalkrishna/tradingkit-skills) | Free trading skills for AI agents. Any market, any broker, zero API keys. Analysis, screener, risk gate, backtester, journal, paper and live orders. | Python |
-| [**developer-agent-skills**](https://github.com/Reddygopalkrishna/developer-agent-skills) | 61 Agent Skills for developers: frontend, backend, databases, DevOps, security and AI engineering. Plain Markdown, works across AI coding tools. | Python · Markdown |
-| [**QuoteFlow**](https://github.com/Reddygopalkrishna/QuoteFlow) | AI sales teammate for B2B distributors. | TypeScript |
-| [**contribution-review-agent**](https://github.com/Reddygopalkrishna/contribution-review-agent) | An AI agent that reviews open-source contributions. | Python |
-| [**open-source-agents**](https://github.com/Reddygopalkrishna/open-source-agents) | Community collection of practical, documented, open-source AI agents and developer tools. | Multi |
-| [**defect_spotter**](https://github.com/Reddygopalkrishna/defect_spotter) | AI-powered property damage and forensic evidence detection using the Gemini Live API. | TypeScript |
+| Project | What it is |
+|---|---|
+| [**tradingkit-skills**](https://github.com/Reddygopalkrishna/tradingkit-skills) | Free trading skills for AI agents. Any market, any broker, zero API keys. Analysis, screener, risk gate, backtester, journal, paper and live orders. |
+| [**developer-agent-skills**](https://github.com/Reddygopalkrishna/developer-agent-skills) | 61 Agent Skills for developers: frontend, backend, databases, DevOps, security and AI engineering. Plain Markdown, works across AI coding tools. |
+| [**QuoteFlow**](https://github.com/Reddygopalkrishna/QuoteFlow) | AI sales teammate for B2B distributors. |
+| [**contribution-review-agent**](https://github.com/Reddygopalkrishna/contribution-review-agent) | An AI agent that reviews open-source contributions. |
+| [**open-source-agents**](https://github.com/Reddygopalkrishna/open-source-agents) | Community collection of practical, documented, open-source AI agents and developer tools. |
+| [**defect_spotter**](https://github.com/Reddygopalkrishna/defect_spotter) | AI-powered property damage and forensic evidence detection using the Gemini Live API. |
 
 ---
 
